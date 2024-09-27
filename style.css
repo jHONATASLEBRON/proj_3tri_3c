@@ -1,0 +1,30 @@
+:root {
+---cor-do-fundo: #F5B962;
+---texto1:
+}
+
+
+body {
+background-color: var(---cor-do-fundo);
+
+
+
+}
+
+
+footer {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+
+button { text-align: center;
+
+
+
+
+   }

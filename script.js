@@ -1,0 +1,1 @@
+const medo=prompt("você tem medo dele?")
